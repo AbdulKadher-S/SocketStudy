@@ -56,14 +56,23 @@ Socket programming finds applications in various domains, including web developm
 ## Functions:
 
 socket() – Used to create a new socket for communication.
+
 bind() – Used to attach the socket to an IP address and port number.
+
 listen() – Used by the server to wait for incoming connections.
+
 accept() – Used to accept a connection request from a client.
+
 connect() – Used by the client to establish connection with the server.
+
 send() – Used to send data through the socket.
+
 recv() – Used to receive data from the socket.
+
 close() – Used to terminate the socket connection.
+
 sendto() – Used to send data in UDP communication.
+
 recvfrom() – Used to receive UDP data along with sender address.
 
 ## Result:
